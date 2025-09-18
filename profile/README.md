@@ -1,3 +1,5 @@
+![Broadsage Containers](containers-full-horiz.png)
+
 ## Broadsage Containers — Enterprise-Ready Container Platform 🐳
 
 At Broadsage Containers, we deliver **production-ready, security-hardened container images** that bridge the gap between community containers and enterprise requirements. Our platform provides enterprise-grade containerization solutions with zero-compromise security and performance.
