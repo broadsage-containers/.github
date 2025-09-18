@@ -1,17 +1,6 @@
 ## Broadsage Containers — Enterprise-Ready Container Platform 🐳
 
-At Broadsage Containers, we're dedicated to delivering **production-ready, security-hardened container images** that bridge the gap between community containers and enterprise requirements. Our container platform forms a specialized branch of the Broadsage ecosystem, providing enterprise-grade containerization solutions with zero-compromise security and performance.
-
-### Our Container Ecosystem
-
-We maintain specialized repositories to better serve different aspects of our container platform:
-
-| Category | Purpose | What You'll Find |
-|----------|---------|------------------|
-| 🌐 **Web Servers** | High-Performance Web Infrastructure | NGINX, Apache HTTP Server, Traefik, and other reverse proxy solutions optimized for enterprise workloads. |
-| 🗄️ **Databases** | Data Platform Solutions | PostgreSQL, MongoDB, Redis, MySQL, and other database containers with enterprise security hardening. |
-| ⚙️ **Application Runtimes** | Development & Runtime Environments | Node.js, Python, Java, Go, and other language runtimes optimized for containerized applications. |
-| 🛠️ **DevOps Tools** | CI/CD & Automation Platform | Build tools, deployment utilities, and automation containers for modern DevOps workflows. |
+At Broadsage Containers, we deliver **production-ready, security-hardened container images** that bridge the gap between community containers and enterprise requirements. Our platform provides enterprise-grade containerization solutions with zero-compromise security and performance.
 
 *Looking for our main organization? Visit: [**🏢 @broadsage**](https://github.com/broadsage)*
 
@@ -28,34 +17,29 @@ Each container image in our platform is categorized with clear labels for easy i
 
 ### Our Container Solutions 🚀
 
-We specialize in building and maintaining enterprise-grade container images, leveraging security best practices and performance optimization:
+We specialize in enterprise-grade container images with security best practices and performance optimization:
 
-- 🛡️ **Security-Hardened Images** — Zero-vulnerability baseline with continuous monitoring, minimal attack surface, and comprehensive security scanning.
-- 📦 **Multi-Platform Support** — Native support for 13+ architectures including AMD64, ARM64, RISC-V, PowerPC, s390x, and emerging platforms.
-- ⚡ **Performance-Optimized** — Benchmark-tested containers optimized for speed, resource efficiency, and cloud-native workloads.
-- 🔍 **Complete Transparency** — SBOM (Software Bill of Materials) for every image, open build processes, and comprehensive documentation.
-- 🏢 **Enterprise-Grade** — Compliance-ready containers meeting SOC2, ISO 27001, FIPS, and other industry standards.
-- 🌍 **Production-Ready** — Battle-tested in mission-critical deployments with comprehensive monitoring and alerting capabilities.
+- 🛡️ **Security-Hardened** — Zero-vulnerability baseline with continuous monitoring and minimal attack surface
+- 📦 **Multi-Platform** — Native support for 13+ architectures including AMD64, ARM64, RISC-V, PowerPC, s390x
+- ⚡ **Performance-Optimized** — Benchmark-tested for speed, resource efficiency, and cloud-native workloads
+- 🔍 **Complete Transparency** — SBOM for every image with open build processes and comprehensive documentation
 
-### Security & Compliance Commitment
+### Security & Compliance 🔒
 
-Beyond creating secure containers, Broadsage Containers actively maintains the highest security standards in the container ecosystem:
+We maintain the highest security standards in the container ecosystem:
 
-&nbsp; ✅ **Daily vulnerability scanning** with Trivy, Snyk, and Grype<br>
-&nbsp; ✅ **Image signing and verification** with Cosign<br>
-&nbsp; ✅ **SBOM generation** for complete supply chain transparency<br>
-&nbsp; ✅ **Non-root runtime** configurations for enhanced security<br>
-&nbsp; ✅ **Distroless variants** for minimal attack surface<br>
-&nbsp; ✅ **Runtime security profiles** with AppArmor and SELinux<br>
+- ✅ **Daily vulnerability scanning** with Trivy, Snyk, and Grype
+- ✅ **Image signing and verification** with Cosign
+- ✅ **SBOM generation** for complete supply chain transparency
+- ✅ **Non-root runtime** configurations and distroless variants
+- ✅ **Compliance-ready** for SOC2, ISO 27001, FIPS standards
 
 ### Why Choose Broadsage Containers? 💼
 
-- **Zero-Compromise Security**: Every container starts with a zero-vulnerability baseline and maintains continuous security monitoring.
-- **Enterprise-Grade Quality**: Production-tested, SLA-backed support with predictable lifecycle management and long-term support.
-- **Multi-Platform Excellence**: Comprehensive architecture support ensuring your applications run everywhere they need to go.
-- **Performance-First Design**: Optimized for speed, efficiency, and resource utilization in modern cloud environments.
-- **Complete Transparency**: Open build processes, comprehensive documentation, and full supply chain visibility.
-- **Community-Driven Innovation**: Active community contributions while maintaining enterprise security and quality standards.
+- **Zero-Compromise Security** — Every container maintains continuous security monitoring with zero-vulnerability baseline
+- **Enterprise-Grade Quality** — Production-tested with SLA-backed support and predictable lifecycle management
+- **Multi-Platform Excellence** — Comprehensive architecture support for any deployment environment
+- **Complete Transparency** — Open build processes with full supply chain visibility and documentation
 
 ### Getting Started 🚀
 
