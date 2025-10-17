@@ -8,8 +8,7 @@ At Broadsage Containers, we deliver **production-ready, security-hardened contai
 
 ### Security & Snyk Contribution :shield:
 
-We are proud to partner with **Snyk**, who provides a complimentary **Enterprise License** to Broadsage Containers as part of their Secure Developer Program. This partnership enables us to maintain a rigorous security posture by leveraging Snyk’s powerful vulnerability scanning and remediation tools.
-![Broadsage and Snyk Partnership](scanned-by-snyk.png)
+We are proud to partner with [**Snyk**](https://snyk.io/), who provides a complimentary **Enterprise License** to Broadsage Containers as part of their Secure Developer Program. This partnership enables us to maintain a rigorous security posture by leveraging Snyk’s powerful vulnerability scanning and remediation tools.
 
 ### Container Classification System
 
