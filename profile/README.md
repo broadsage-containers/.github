@@ -1,6 +1,6 @@
-<p align="center">
+<p align="center" style="display:flex; align-items:center; justify-content:center; gap:10px;">
   <img src="containers-full-horiz.png" alt="Broadsage Containers" height="100" />
-  <img src="scanned-by-snyk.png" alt="Broadsage Containers Scanned by Snyk" height="100" style="float:right;" />
+  <img src="scanned-by-snyk.png" alt="Broadsage Containers Scanned by Snyk" height="100" />
 </p>
 
 ## Broadsage Containers — Enterprise-Ready Container Platform 🐳
