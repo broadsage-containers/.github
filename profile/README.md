@@ -1,13 +1,15 @@
-<p align="center" style="display:flex; align-items:center; justify-content:center; gap:10px;">
-  <img src="containers-full-horiz.png" alt="Broadsage Containers" height="100" />
-  <img src="scanned-by-snyk.png" alt="Broadsage Containers Scanned by Snyk" height="100" />
-</p>
+![Broadsage Containers](containers-full-horiz.png)
 
 ## Broadsage Containers — Enterprise-Ready Container Platform 🐳
 
 At Broadsage Containers, we deliver **production-ready, security-hardened container images** that bridge the gap between community containers and enterprise requirements. Our platform provides enterprise-grade containerization solutions with zero-compromise security and performance.
 
 *Looking for our main organization? Visit: [**🏢 @broadsage**](https://github.com/broadsage)*
+
+### Security & Snyk Contribution 🔒
+
+We are proud to partner with **Snyk**, who provides a complimentary **Enterprise License** to Broadsage Containers as part of their Secure Developer Program. This partnership enables us to maintain a rigorous security posture by leveraging Snyk’s powerful vulnerability scanning and remediation tools.
+![Broadsage and Snyk Partnership](scanned-by-snyk.png)
 
 ### Container Classification System
 
