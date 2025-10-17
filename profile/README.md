@@ -1,4 +1,9 @@
-![Broadsage Containers](containers-full-horiz.png)
+<p float="center">
+  <img src="containers-full-horiz.png" alt="Broadsage Containers" height="100" />
+  <img src="scanned-by-snyk.png" alt="Broadsage Containers Scanned by Snyk" height="100" style="float:right;" />
+</p>
+
+
 
 ## Broadsage Containers — Enterprise-Ready Container Platform 🐳
 
