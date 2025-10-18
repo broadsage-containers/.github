@@ -16,10 +16,10 @@ Each container image in our platform is categorized with clear labels for easy i
 
 | Badge | Description |
 |-------|-------------|
-| ![Official](https://img.shields.io/badge/container-official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=flat) | Enterprise-ready, production-tested containers with SLA support and guaranteed lifecycle management. |
-| ![Community](https://img.shields.io/badge/container-community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=flat) | Community-driven containers welcoming contributions, feedback, and collaborative development. |
-| ![Beta](https://img.shields.io/badge/container-beta-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=flat) | Pre-release containers for early adopters and testing in non-production environments. |
-| ![Legacy](https://img.shields.io/badge/container-legacy-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=flat) | Maintained legacy containers for backward compatibility - migration to newer versions recommended. |
+| ![Official](https://img.shields.io/badge/container-Official-green.svg?colorA=303033&colorB=ff8a2c&label=Broadsage&style=flat) | Enterprise-ready, production-tested containers with SLA support and guaranteed lifecycle management. |
+| ![Community](https://img.shields.io/badge/container-Community-green.svg?colorA=303033&colorB=28B8A0&label=Broadsage&style=flat) | Community-driven containers welcoming contributions, feedback, and collaborative development. |
+| ![Beta](https://img.shields.io/badge/container-Beta-green.svg?colorA=303033&colorB=c3cf00&label=Broadsage&style=flat) | Pre-release containers for early adopters and testing in non-production environments. |
+| ![Legacy](https://img.shields.io/badge/container-Legacy-green.svg?colorA=303033&colorB=D1D1D2&label=Broadsage&style=flat) | Maintained legacy containers for backward compatibility - migration to newer versions recommended. |
 
 ### Our Container Solutions 🚀
 
